@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Balireddi Abhishek 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Biomedical+Engineer+%7C+Machine+Learning+Engineer;SRM+University+Chennai;Joint+Secretary+%40+Bioinnovation+Club;5x+National+Hackathon+Winner+%7C+20%2B+Symposium+Winner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=58A6FF&center=true&vCenter=true&width=900&size=22&lines=Biomedical+Engineer+%7C+Machine+Learning+Engineer;Agentic+AI+Engineer+%7C+Quantum+AI+Enthusiast;SRM+University+Chennai+%7C+Joint+Secretary+%40+Bioinnovation+Club;5x+National+Hackathon+Winner+%7C+20%2B+Symposium+Winner" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oz8xJBB4i9DaxyhjW/giphy.gif" width="100%" alt="Avengers banner" />
 </p>
 
 <p align="center">
@@ -9,46 +13,58 @@
   <a href="https://github.com/bmeabhishek-bit"><img src="https://img.shields.io/github/stars/bmeabhishek-bit?affiliations=OWNER&style=for-the-badge" alt="stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=bmeabhishek-bit&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/bmeabhishek-bit?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20All-1f6feb?style=for-the-badge" alt="projects" /></a>
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF3D3D?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Quantum%20AI-7B61FF?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Quantum AI" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="270" alt="Coding gif left" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="270" alt="Coding gif right" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="320" alt="Coding" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ0MWBy0Yo/giphy.gif" width="320" alt="Captain America" />
+  <img src="https://media.giphy.com/media/3o7TKr2eYXbngLu0Xu/giphy.gif" width="320" alt="Iron Man / Avengers" />
 </p>
+
+---
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="AI gif" />
+<img align="right" src="https://media.giphy.com/media/l0HlPjezykm1S4VRu/giphy.gif" width="260" alt="Captain America shield" />
 
-- Biomedical Engineer and Machine Learning Engineer at **SRM University, Chennai**.
+- **Biomedical Engineer** and **Machine Learning Engineer** at **SRM University, Chennai**.
+- **Agentic AI Engineer** — tool-augmented agents, multi-agent orchestration, and production-minded LLM systems.
+- **Quantum AI Enthusiast** — hybrid quantum-classical models and near-term algorithms for science and health signals.
 - **Joint Secretary**, Bioinnovation Club.
-- **5x National Hackathon Winner**.
-- **20+ Symposium Winner**.
-- **5+ Workshops Attended** in AI, innovation, and engineering.
-- I build healthcare AI and real-world ML systems with deployable product interfaces.
+- **5x National Hackathon Winner** · **20+ Symposium Winner** · **5+ Workshops** in AI, innovation, and engineering.
+- **Marvel mindset:** ship like Tony Stark, lead like Steve Rogers — healthcare AI and deep-tech with real-world impact.
+
+---
 
 ## Achievement Dashboard
 
-| Category | Count | Highlight |
-|---|---:|---|
-| National Hackathons | 5x | Cross-domain problem solving under pressure |
-| Symposium Wins | 20+ | Research, innovation pitches, and technical excellence |
-| Workshops Attended | 5+ | Hands-on upskilling in AI and biomedical technologies |
-| Leadership Roles | 1 | Joint Secretary at Bioinnovation Club |
+| Category | Count | Highlight | Marvel parallel |
+|:---|---:|:---|:---|
+| **National Hackathons** | 5x | Cross-domain builds under pressure; rapid prototyping to demo | Tony Stark in the workshop |
+| **Symposium wins** | 20+ | Research pitches, technical depth, presentation excellence | Captain America rallying the team |
+| **Workshops attended** | 5+ | Hands-on upskilling in AI, biomedical tech, and systems | *With great power comes great responsibility* |
+| **Leadership roles** | 1 | Joint Secretary — Bioinnovation Club | Nick Fury assembling the squad |
+| **Core domains** | 3 | Biomedical engineering · Agentic AI · Quantum AI | Multiverse-scale curiosity |
 
-## What Top Animated READMEs Do Better
+---
+
+## What top animated READMEs do better
 
 | High-performing pattern (from top animated profiles) | Why it converts better than random GIF spam |
-|---|---|
-| Hero typing animation with a value proposition | Instantly communicates identity and credibility |
-| Structured badges + social proof row | Quick trust signals for recruiters and collaborators |
-| Curated GIF usage (2-4 purposeful GIFs) | Adds personality without hurting readability |
-| Feature/project cards with clear links | Turns profile views into project clicks |
-| Data-backed sections (stats, timeline, achievements) | Feels professional, not decorative-only |
+|:---|:---|
+| Hero typing + clear value proposition | Identity and credibility in the first screen |
+| Structured badges + social proof | Fast trust for recruiters and collaborators |
+| Curated GIFs (purposeful, not noisy) | Personality without killing readability |
+| Project cards + deep tables | Profile views become repo clicks |
+| Data-backed stats and journey | Professional proof, not decoration only |
 
-## Tech Stack
+---
 
-<p>
+## Tech stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -61,16 +77,51 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Featured Project Matrix
+## Agentic AI toolkit
 
-| Project | Problem Solved | Tech | Link |
-|---|---|---|---|
-| BEV 2D Occupancy | Real-time scene understanding from multi-camera inputs | Python, CV/AI | [Open](https://github.com/bmeabhishek-bit/Bird-s-Eye-View-BEV-2D-Occupancy-Team-Name-CTRL-ALT-WIN-) |
-| AegisAI | AI-assisted clinical triage for faster decision support | TypeScript, AI stack | [Open](https://github.com/bmeabhishek-bit/AegisAI-Revolutionizing-Clinical-Triage-with-Multimodal-Intelligence-specially-for-SRMC-hosptial) |
-| Sentinel-Mesh | Communication protocol for infrastructure-denied environments | C++, edge intelligence | [Open](https://github.com/bmeabhishek-bit/Sentinel-Mesh-AI-Autonomous-Decentralized-Communications-Logistics-Protocol) |
-| LLM_EEC | Guided education assistant with deployable interface | Python, Vercel | [Open](https://github.com/bmeabhishek-bit/LLM_EEC) |
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0f172a?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Vector%20DB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector DB" />
+</p>
 
-## Project Cards
+| Layer | What I use | Why it matters |
+|:---|:---|:---|
+| **Orchestration** | LangChain / LangGraph, multi-agent patterns | Reliable tool use and stateful workflows |
+| **Memory** | Short-term buffers + long-term retrieval (RAG) | Agents that remember context safely |
+| **Stores** | pgvector, FAISS, Chroma-style patterns | Fast semantic search over your own data |
+| **Shipping** | APIs, eval hooks, logging | Agentic systems that survive past the demo |
+
+## Quantum AI toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/PennyLane-00D4AA?style=for-the-badge&logo=python&logoColor=white" alt="PennyLane" />
+  <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Cirq" />
+  <img src="https://img.shields.io/badge/Quantum%20ML-7B61FF?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Quantum ML" />
+</p>
+
+| Focus | Tools / ideas | Direction |
+|:---|:---|:---|
+| **Frameworks** | Qiskit, PennyLane, Cirq | Reproducible circuits and experiments |
+| **Algorithms** | VQE / QAOA-style variational workflows | Hybrid quantum-classical pipelines |
+| **Bio × quantum** | Quantum kernels for signal / classification exploration | Research-grade curiosity with medical relevance |
+
+---
+
+## Featured project matrix
+
+| Project | Domain | Problem solved | Tech | Status |
+|:---|:---|:---|:---|:---|
+| **BEV 2D Occupancy** | Perception / CV | Multi-camera scene understanding → BEV occupancy | Python, CV/AI | [Open repo](https://github.com/bmeabhishek-bit/Bird-s-Eye-View-BEV-2D-Occupancy-Team-Name-CTRL-ALT-WIN-) |
+| **AegisAI** | Clinical AI | Multimodal triage support for hospital workflows | TypeScript, AI stack | [Open repo](https://github.com/bmeabhishek-bit/AegisAI-Revolutionizing-Clinical-Triage-with-Multimodal-Intelligence-specially-for-SRMC-hosptial) |
+| **Sentinel-Mesh** | Edge / comms | Resilient mesh when infrastructure fails | C++, edge intelligence | [Open repo](https://github.com/bmeabhishek-bit/Sentinel-Mesh-AI-Autonomous-Decentralized-Communications-Logistics-Protocol) |
+| **LLM_EEC** | EdTech / LLM | Guided education assistant + deployable UI | Python, Vercel | [Open repo](https://github.com/bmeabhishek-bit/LLM_EEC) |
+| **Quantum-Bio-Lab** | Quantum × biomedical | Hybrid models + biomedical signal experiments | Qiskit / PennyLane, Python | **Planned** |
+
+## Project cards
 
 <p align="center">
   <a href="https://github.com/bmeabhishek-bit/LLM_EEC">
@@ -81,20 +132,30 @@
   </a>
 </p>
 
-## Build Journey and Goals
+---
 
-| Timeline | Focus |
-|---|---|
-| Current | Healthcare AI prototypes with stronger product polish |
-| Next | Benchmarking and evaluation pipelines for model quality |
-| Next | End-to-end flagship AI product with measurable impact |
-| Ongoing | Leadership and innovation through Bioinnovation Club initiatives |
+## Build journey and goals
 
-## GitHub Analytics
+| Timeline | Focus | Outcome |
+|:---|:---|:---|
+| **Now** | Healthcare AI + agentic workflows with eval and logging | Demo → dependable product |
+| **Next** | Benchmarks + experiment tracking for model-centric repos | Measurable quality |
+| **Next** | Flagship end-to-end AI build (agents + UI + deploy) | One “wow” reference project |
+| **Ongoing** | Bioinnovation Club leadership | Community-driven innovation at SRM |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmeabhishek-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmeabhishek-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://media.giphy.com/media/13HXKG2HGN8aPK/giphy.gif" width="500" alt="Avengers assemble" />
+</p>
+
+## GitHub analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bmeabhishek-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmeabhishek-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=bmeabhishek-bit&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
@@ -105,18 +166,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=bmeabhishek-bit&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
-## Let's Connect
+---
+
+## Let's connect
 
 | Platform | Link |
-|---|---|
-| GitHub | [@bmeabhishek-bit](https://github.com/bmeabhishek-bit) |
-| Portfolio | [portfolio_abhi](https://github.com/bmeabhishek-bit/portfolio_abhi) |
-| Email | `your-email@example.com` |
+|:---|:---|
+| **GitHub** | [@bmeabhishek-bit](https://github.com/bmeabhishek-bit) |
+| **Portfolio** | [portfolio_abhi](https://github.com/bmeabhishek-bit/portfolio_abhi) |
+| **Email** | `your-email@example.com` |
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Footer gif" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500" alt="Iron Man / Avengers" />
 </p>
 
-If you are building ambitious AI systems in healthcare or deep-tech domains, let's collaborate.
+<p align="center"><b>Whatever it takes.</b> Building AI that protects and elevates lives — the Avengers way.</p>
+
+If you are building ambitious **agentic**, **quantum**, or **healthcare** AI systems, let's collaborate.
