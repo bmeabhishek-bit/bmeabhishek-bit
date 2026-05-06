@@ -1,6 +1,10 @@
-# Hi, I'm Balireddi Abhishek 👋
+<h1 align="center">Hi, I'm Balireddi Abhishek 👋</h1>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Engineer+%7C+Full-Stack+Builder;Building+real-world+intelligence+systems;Healthcare+AI+%E2%80%A2+Multimodal+Perception+%E2%80%A2+Automation" alt="Typing intro" />
+</p>
+
+<p align="center">
   <a href="https://github.com/bmeabhishek-bit?tab=followers">
     <img src="https://img.shields.io/github/followers/bmeabhishek-bit?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
@@ -10,7 +14,16 @@
   <img src="https://komarev.com/ghpvc/?username=bmeabhishek-bit&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p>
+  <a href="https://github.com/bmeabhishek-bit?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20All-1f6feb?style=for-the-badge" alt="View all projects" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR5aGdwN2QxZXF4eG96d2x6bW8wZmdueDB6aGRoeXg3dDZwOHF1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQXlQ3nHyLMvte/giphy.gif" width="320" alt="Coding animation" />
+</p>
+
+<p align="center">
 AI + full-stack developer building practical systems in healthcare intelligence, multimodal perception, and automation.
 </p>
 
@@ -23,6 +36,15 @@ AI + full-stack developer building practical systems in healthcare intelligence,
 | Interests | Multimodal AI, Clinical/Health Tech, Distributed Systems |
 | Open To | Collaborations, Hackathons, Product Engineering Roles |
 | Portfolio | [portfolio_abhi](https://github.com/bmeabhishek-bit/portfolio_abhi) |
+
+## Value I Bring
+
+| Area | What I Build | Outcome |
+|---|---|---|
+| Applied AI | AI pipelines and inference-ready prototypes | Faster iteration from idea to demo |
+| Full-Stack Delivery | End-to-end web apps with deployable backends | Product-ready MVPs |
+| Research to Product | Convert experimentation into usable systems | Real-world impact, not just notebooks |
+| Team Collaboration | Hackathon and rapid-build workflows | High execution velocity |
 
 ## Tech Toolbox
 
@@ -54,6 +76,17 @@ AI + full-stack developer building practical systems in healthcare intelligence,
 | LLM_EEC | Guided education assistant with deployable interface | Python, Vercel | [Open](https://github.com/bmeabhishek-bit/LLM_EEC) |
 | portfolio_abhi | Personal showcase and identity page | CSS, front-end | [Open](https://github.com/bmeabhishek-bit/portfolio_abhi) |
 
+## Project Cards
+
+<p align="center">
+  <a href="https://github.com/bmeabhishek-bit/LLM_EEC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmeabhishek-bit&repo=LLM_EEC&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/bmeabhishek-bit/portfolio_abhi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bmeabhishek-bit&repo=portfolio_abhi&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ## Current Build Roadmap
 
 | Status | Item |
@@ -72,6 +105,10 @@ AI + full-stack developer building practical systems in healthcare intelligence,
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmeabhishek-bit&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=bmeabhishek-bit&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
 </p>
 
 ## Contact and Links
